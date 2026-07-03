@@ -22,7 +22,7 @@ again — entirely **offline** in your browser. The interface is bilingual
 
 ```
 SHA-256 (FindACase.html) =
-0db99cad31b73016997fc0152b3dcf110878ba1de93bd973f77b141303faba5b
+fad0b489b7cae4aed24667d8cda1970f75c3ebfe2a140242026cb5bf6102e4c7
 ```
 
 If it matches, you have the **unmodified original**. Download FindACase **only**

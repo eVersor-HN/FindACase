@@ -1,5 +1,5 @@
 ================================================================================
-FindACase — THIRD-PARTY NOTICES / HINWEISE ZU FREMDKOMPONENTEN
+FindACase — THIRD-PARTY NOTICES
 ================================================================================
 
 FindACase is proprietary software (see LICENSE). It bundles the following
@@ -8,13 +8,7 @@ copyright notices preserved). Each is provided to you under its own license,
 reproduced in full below. These third-party licenses apply ONLY to the respective
 components, not to FindACase itself.
 
-FindACase ist proprietäre Software (siehe LICENSE). Es enthält die folgenden
-quelloffenen Fremdkomponenten (in minifizierter/obfuskierter Form gebündelt, unter
-Beibehaltung ihrer Urheberrechtshinweise). Jede wird Ihnen unter ihrer
-eigenen, nachstehend vollständig wiedergegebenen Lizenz bereitgestellt. Diese
-Drittlizenzen gelten NUR für die jeweilige Komponente, nicht für FindACase selbst.
-
-Bundled components / Enthaltene Komponenten:
+Bundled components:
   - age-encryption (typage)  v0.2.4   — BSD-3-Clause
   - @noble/ciphers           v1.3.0   — MIT
   - @noble/curves            v1.9.7   — MIT
@@ -161,5 +155,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 ================================================================================
-End of third-party notices / Ende der Hinweise zu Fremdkomponenten
+End of third-party notices
 ================================================================================

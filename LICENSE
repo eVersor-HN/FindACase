@@ -1,19 +1,13 @@
 FindACase — End User License Agreement (EULA)
-Endbenutzer-Lizenzvertrag
 
 Copyright (c) 2026 Marco Aurelio Fattizzo. All rights reserved.
-Copyright (c) 2026 Marco Aurelio Fattizzo. Alle Rechte vorbehalten.
 
 This is proprietary, closed-source software. It is licensed, not sold.
-Dies ist proprietäre Closed-Source-Software. Sie wird lizenziert, nicht verkauft.
 
-Authoritative version: the German text in PART B is legally binding. The English
-text in PART A is a convenience translation; in case of conflict, PART B prevails.
-Maßgeblich ist die deutsche Fassung in TEIL B. Die englische Fassung in TEIL A ist
-eine unverbindliche Übersetzung; bei Widersprüchen gilt TEIL B.
+This Agreement is written in English, and English is its governing language. It is
+governed by the laws of the Federal Republic of Germany (see Section 10), whose
+mandatory provisions apply regardless of the language of this text.
 
-================================================================================
-PART A — ENGLISH (convenience translation)
 ================================================================================
 
 1. DEFINITIONS
@@ -119,128 +113,6 @@ PART A — ENGLISH (convenience translation)
    This Agreement, together with THIRD-PARTY-NOTICES.txt and DISCLAIMER.md,
    constitutes the entire agreement between You and the Author regarding the
    Software and supersedes all prior understandings.
-
-================================================================================
-TEIL B — DEUTSCH (rechtlich verbindliche Fassung)
-================================================================================
-
-1. BEGRIFFE
-   "Software" bezeichnet die Anwendung FindACase einschließlich des
-   Einzeldatei-HTML-Builds, der zugehörigen Starter und Begleitdateien sowie der
-   zugehörigen Dokumentation, ausschließlich in ausführbarer/gebauter Form.
-   "Autor" bezeichnet Marco Aurelio Fattizzo. "Sie" bezeichnet die natürliche oder
-   juristische Person, die Rechte aus diesem Vertrag ausübt.
-
-2. EINRÄUMUNG DER LIZENZ
-   Vorbehaltlich der Einhaltung dieses Vertrags räumt der Autor Ihnen ein
-   weltweites, unentgeltliches, einfaches (nicht ausschließliches), nicht
-   übertragbares, nicht unterlizenzierbares und widerrufliches Recht ein,
-   (a) die unveränderte Software für jeden rechtmäßigen Zweck zu installieren und
-       zu nutzen, sei es privat oder kommerziell, einschließlich der Nutzung
-       innerhalb eines Unternehmens oder einer anderen Organisation durch deren
-       Mitglieder, Beschäftigte und Auftragnehmer; und
-   (b) eine angemessene Anzahl exakter, unveränderter Kopien der Software
-       anzufertigen, soweit dies für Installation, Ausführung, Sicherung und
-       interne Bereitstellung (z. B. auf USB-Sticks, Firmengeräten oder einem
-       internen Netzwerk-/Intranet-Server für den Zugriff durch die in Ziffer 2(a)
-       genannten Personen) zur eigenen Nutzung nach (a) erforderlich ist. Das
-       Bereitstellen der Software für Ihre eigenen Mitglieder, Beschäftigten und
-       Auftragnehmer nach Ziffer 2(a) ist keine unzulässige Weitergabe an Dritte
-       nach Ziffer 3(c).
-   Für diese Lizenz wird kein Entgelt erhoben.
-
-3. BESCHRÄNKUNGEN
-   Soweit nicht in Ziffer 2 ausdrücklich gestattet und soweit die jeweilige
-   Beschränkung nicht durch zwingendes anwendbares Recht untersagt ist, ist es
-   Ihnen NICHT gestattet:
-   (a) die Software zu verändern, anzupassen, zu übersetzen oder Bearbeitungen
-       davon zu erstellen;
-   (b) die Software zurückzuentwickeln (Reverse Engineering), zu dekompilieren
-       oder zu disassemblieren oder auf andere Weise zu versuchen, ihren Quellcode
-       zu rekonstruieren oder zu erlangen;
-   (c) die Software zu verkaufen, zu vermieten, zu verleasen, zu verleihen, zu
-       unterlizenzieren oder anderweitig kommerziell zu verwerten oder die
-       Software ganz oder teilweise an Dritte weiterzugeben, zu veröffentlichen,
-       zu übermitteln, zugänglich zu machen oder sonst bereitzustellen, sei es als
-       eigenständiges Produkt oder als Teil eines anderen Produkts oder Dienstes;
-   (d) Urheber-, Marken-, Autoren-, Echtheits- oder sonstige Schutzrechtshinweise
-       auf oder in der Software zu entfernen, zu verändern oder unkenntlich zu
-       machen; oder
-   (e) technische Schutz- oder Integritätsmaßnahmen zu umgehen oder zu
-       deaktivieren.
-   Vorrang zwingenden Rechts: Ziffer 3(b) beschränkt nicht Handlungen, die nach
-   zwingendem anwendbarem Recht ohne Zustimmung des Rechtsinhabers zulässig sind –
-   insbesondere das Beobachten, Untersuchen oder Testen der Software im Rahmen ihrer
-   bestimmungsgemäßen Nutzung, um die ihr zugrunde liegenden Ideen und Grundsätze zu
-   ermitteln (§ 69d Abs. 3 UrhG), sowie die Dekompilierung zur Herstellung der
-   Interoperabilität (§ 69e UrhG bzw. Art. 6 der Richtlinie 2009/24/EG) –, sofern
-   deren jeweilige gesetzliche Voraussetzungen erfüllt sind.
-
-4. RECHTEVORBEHALT / EIGENTUM
-   Die Software wird lizenziert, nicht verkauft. Der Autor behält sämtliche
-   Rechte, Titel und Ansprüche an der Software einschließlich aller Rechte des
-   geistigen Eigentums. Es werden keine anderen als die in diesem Vertrag
-   ausdrücklich eingeräumten Rechte gewährt.
-
-5. FREMDKOMPONENTEN
-   Die Software enthält quelloffene Fremdkomponenten (in minifizierter/obfuskierter
-   Form gebündelt, unter Beibehaltung ihrer Urheberrechtshinweise), die Ihnen unter
-   deren jeweils eigenen Lizenzbedingungen lizenziert werden; diese gehen in Bezug
-   auf die betreffenden Komponenten diesem Vertrag vor. Siehe die mit der Software
-   ausgelieferte Datei THIRD-PARTY-NOTICES.txt. Dieser Vertrag schränkt Ihre
-   Rechte aus jenen Drittlizenzen nicht ein.
-
-6. ECHTHEIT
-   Echte Kopien der Software werden vom Autor unter
-   https://github.com/eVersor-HN/FindACase veröffentlicht und lassen sich anhand
-   der dort veröffentlichten SHA-256-Prüfsumme verifizieren. Für Kopien aus
-   anderen Quellen übernimmt der Autor keine Gewähr.
-
-7. KEINE GEWÄHRLEISTUNG
-   DIE SOFTWARE WIRD "WIE BESEHEN" UND "WIE VERFÜGBAR" OHNE JEGLICHE
-   GEWÄHRLEISTUNG BEREITGESTELLT, WEDER AUSDRÜCKLICH NOCH KONKLUDENT,
-   EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF GEWÄHRLEISTUNGEN DER MARKTGÄNGIGKEIT,
-   DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK, DER NICHTVERLETZUNG VON RECHTEN SOWIE
-   DER FEHLER- UND MÄNGELFREIHEIT, SOWEIT NACH ANWENDBAREM RECHT ZULÄSSIG. BEI
-   VERLUST EINES PASSWORTS ODER EINER SCHLÜSSELDATEI GIBT ES KEINE
-   WIEDERHERSTELLUNG. Siehe DISCLAIMER.md.
-
-8. HAFTUNGSBESCHRÄNKUNG
-   SOWEIT NACH ANWENDBAREM RECHT ZULÄSSIG, HAFTET DER AUTOR NICHT FÜR MITTELBARE,
-   BEILÄUFIGE, BESONDERE ODER FOLGESCHÄDEN ODER FÜR DEN VERLUST VON DATEN,
-   GEWINNEN ODER GESCHÄFTEN, DIE SICH AUS ODER IM ZUSAMMENHANG MIT DER SOFTWARE
-   ODER IHRER NUTZUNG ODER NICHTNUTZBARKEIT ERGEBEN. DIESER VERTRAG SCHLIESST ODER
-   BESCHRÄNKT KEINE HAFTUNG AUS, DIE NACH ZWINGENDEM ANWENDBAREM RECHT NICHT
-   AUSGESCHLOSSEN ODER BESCHRÄNKT WERDEN KANN (insbesondere die Haftung für Vorsatz
-   und grobe Fahrlässigkeit, für Schäden aus der Verletzung des Lebens, des Körpers
-   oder der Gesundheit sowie nach dem Produkthaftungsgesetz).
-   Bei der Verletzung einer wesentlichen Vertragspflicht (einer Pflicht, deren
-   Erfüllung die ordnungsgemäße Durchführung dieses Vertrags überhaupt erst
-   ermöglicht und auf deren Einhaltung Sie regelmäßig vertrauen dürfen) ist die
-   Haftung des Autors für einfache Fahrlässigkeit auf den vertragstypischen,
-   vorhersehbaren Schaden begrenzt; die vorstehend genannten zwingenden
-   Haftungstatbestände bleiben unberührt.
-   Siehe DISCLAIMER.md.
-
-9. LAUFZEIT UND BEENDIGUNG
-   Dieser Vertrag gilt, bis er beendet wird. Er endet automatisch und sofort, wenn
-   Sie gegen eine seiner Bestimmungen verstoßen. Mit Beendigung müssen Sie jede
-   Nutzung der Software einstellen und alle in Ihrem Besitz oder unter Ihrer
-   Kontrolle befindlichen Kopien vernichten. Die Ziffern 3 bis 8, 10 und 11 gelten
-   über die Beendigung hinaus fort.
-
-10. ANWENDBARES RECHT UND SALVATORISCHE KLAUSEL
-   Dieser Vertrag unterliegt dem Recht der Bundesrepublik Deutschland unter
-   Ausschluss seiner Kollisionsnormen und des UN-Kaufrechts (CISG). Zwingende
-   verbraucherschützende Vorschriften Ihres gewöhnlichen Aufenthaltsorts bleiben
-   unberührt. Sollte eine Bestimmung unwirksam oder undurchführbar sein, bleiben
-   die übrigen Bestimmungen vollumfänglich wirksam; die unwirksame Bestimmung ist
-   durch eine wirksame zu ersetzen, die dem ursprünglichen Zweck am nächsten kommt.
-
-11. GESAMTE VEREINBARUNG
-   Dieser Vertrag bildet zusammen mit THIRD-PARTY-NOTICES.txt und DISCLAIMER.md die
-   gesamte Vereinbarung zwischen Ihnen und dem Autor über die Software und ersetzt
-   alle früheren Absprachen.
 
 ================================================================================
 Marco Aurelio Fattizzo · FindACase · https://github.com/eVersor-HN/FindACase

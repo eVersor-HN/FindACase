@@ -1,0 +1,119 @@
+FindACase — End User License Agreement (EULA)
+
+Copyright (c) 2026 Marco Aurelio Fattizzo. All rights reserved.
+
+This is proprietary, closed-source software. It is licensed, not sold.
+
+This Agreement is written in English, and English is its governing language. It is
+governed by the laws of the Federal Republic of Germany (see Section 10), whose
+mandatory provisions apply regardless of the language of this text.
+
+================================================================================
+
+1. DEFINITIONS
+   "Software" means the FindACase application, including the single-file HTML
+   build, its launchers and accompanying files, and all associated documentation,
+   in object/built form only. "Author" means Marco Aurelio Fattizzo. "You" means
+   the natural or legal person exercising rights under this Agreement.
+
+2. GRANT OF LICENSE
+   Subject to your compliance with this Agreement, the Author grants You a
+   worldwide, royalty-free, non-exclusive, non-transferable, non-sublicensable,
+   revocable license to:
+   (a) install and use the unmodified Software for any lawful purpose, whether
+       private or commercial, including use within a company or other
+       organization by its members, employees and contractors; and
+   (b) make a reasonable number of exact, unmodified copies of the Software as
+       strictly necessary to install, run, back up and internally deploy it
+       (e.g. onto USB sticks, company devices, or an internal network/intranet
+       server for access by the persons covered in Section 2(a)) for Your own use
+       under (a). Making the Software available to Your own members, employees and
+       contractors under Section 2(a) is not a prohibited provision to a third
+       party under Section 3(c).
+   No fee is charged for this license.
+
+3. RESTRICTIONS
+   Except to the extent expressly permitted in Section 2, or to the extent that a
+   given restriction is prohibited by applicable mandatory law, You shall NOT:
+   (a) modify, adapt, translate, or create derivative works of the Software;
+   (b) reverse engineer, decompile, or disassemble the Software, or otherwise
+       attempt to reconstruct or obtain its source code;
+   (c) sell, rent, lease, lend, sublicense, or otherwise commercially exploit the
+       Software, or distribute, publish, transmit, make available, or otherwise
+       provide the Software to any third party, in whole or in part, as a
+       standalone product or as part of another product or service;
+   (d) remove, alter, or obscure any copyright, trademark, authorship,
+       authenticity, or other proprietary notices on or in the Software; or
+   (e) circumvent or disable any technical protection or integrity measures.
+   Mandatory-law carve-out: nothing in Section 3(b) restricts acts that applicable
+   mandatory law permits without the rightholder's authorization — in particular
+   observing, studying or testing the Software during its normal use to determine
+   the ideas and principles underlying it (sec. 69d(3) German Copyright Act / UrhG),
+   and decompilation for interoperability (sec. 69e UrhG / Art. 6 of Directive
+   2009/24/EC, as implemented) — provided the respective statutory conditions are met.
+
+4. RESERVATION OF RIGHTS / OWNERSHIP
+   The Software is licensed, not sold. The Author retains all right, title, and
+   interest in and to the Software, including all intellectual property rights.
+   No rights are granted other than those expressly set out in this Agreement.
+
+5. THIRD-PARTY COMPONENTS
+   The Software incorporates third-party open-source components (bundled in
+   minified/obfuscated form, with their copyright notices preserved) that are
+   licensed to You under their own respective license terms, which prevail
+   over this Agreement with respect to those components. See the file
+   THIRD-PARTY-NOTICES.txt distributed with the Software. Nothing in this
+   Agreement limits Your rights under those third-party licenses.
+
+6. AUTHENTICITY
+   Authentic copies of the Software are published by the Author at
+   https://github.com/eVersor-HN/FindACase and can be verified against the
+   published SHA-256 checksum. The Author makes no representation regarding copies
+   obtained from any other source.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND
+   FREEDOM FROM DEFECTS OR ERRORS, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+   LAW. THERE IS NO RECOVERY IF YOU LOSE A PASSWORD OR KEY FILE. See DISCLAIMER.md.
+
+8. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE
+   LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
+   DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, OR BUSINESS, ARISING OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR ITS USE OR INABILITY TO BE USED, EVEN IF
+   ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTHING IN THIS AGREEMENT EXCLUDES
+   OR LIMITS LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED BY APPLICABLE MANDATORY
+   LAW (including liability for intent or gross negligence, for injury to life,
+   body or health, or under applicable product-liability law).
+   For breach of an essential contractual obligation (an obligation whose
+   fulfilment makes the proper performance of this Agreement possible in the first
+   place and on whose observance You may regularly rely), the Author's liability
+   for simple negligence is limited to the foreseeable damage typical for this type
+   of agreement; the mandatory liabilities named above remain unaffected.
+   See DISCLAIMER.md.
+
+9. TERM AND TERMINATION
+   This Agreement is effective until terminated. It terminates automatically and
+   immediately if You breach any of its terms. Upon termination You must cease all
+   use of the Software and destroy all copies in Your possession or control.
+   Sections 3 through 8, 10 and 11 survive termination.
+
+10. GOVERNING LAW AND SEVERABILITY
+   This Agreement is governed by the laws of the Federal Republic of Germany,
+   excluding its conflict-of-laws rules and the UN Convention on Contracts for the
+   International Sale of Goods (CISG). Mandatory consumer-protection provisions of
+   Your country of habitual residence remain unaffected. If any provision is held
+   invalid or unenforceable, the remaining provisions remain in full force, and
+   the invalid provision shall be replaced by a valid one that most closely
+   reflects the original intent.
+
+11. ENTIRE AGREEMENT
+   This Agreement, together with THIRD-PARTY-NOTICES.txt and DISCLAIMER.md,
+   constitutes the entire agreement between You and the Author regarding the
+   Software and supersedes all prior understandings.
+
+================================================================================
+Marco Aurelio Fattizzo · FindACase · https://github.com/eVersor-HN/FindACase
+================================================================================
